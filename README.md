@@ -10,11 +10,11 @@ Designed for beginners, preparation, and GitHub portfolio projects.
  Board size is fixed at 3×3.
  Two players (X and O) take turns.
  Program must:
-   Display the board after every move.
-   Check for valid moves.
-   Detect wins (rows, columns, diagonals).
-   Detect draws (when the board is full).
-   Announce the result (X wins, O wins, or draw).
+  - Display the board after every move.
+  - Check for valid moves.
+  - Detect wins (rows, columns, diagonals).
+  - Detect draws (when the board is full).
+  - Announce the result (X wins, O wins, or draw).
  Follow modular structure using functions:
    Board()
    printboard()
