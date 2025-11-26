@@ -1,15 +1,19 @@
 # Modular_Tic-tac-toe
 
+  A simple, clean, and modular Tic-Tac-Toe game in the C programming language.  
+  Designed for beginners, preparation, and GitHub portfolio projects.
 
-A simple, clean, and modular Tic-Tac-Toe game in the C programming language.  
-Designed for beginners, preparation, and GitHub portfolio projects.
+ Abstract:
+ 
+- This project is a modular, two-player Tic-Tac-Toe game developed in C using arrays, loops, and user-defined functions. It accepts real-time user input, updates the game     board dynamically, and checks for win or draw conditions after every move. The project demonstrates strong fundamentals of structured programming and problem-solving in C.
+
 
  Functional Requirements :
 
 - The game must run in a terminal.
 - Board size is fixed at 3×3.
 - Two players (X and O) take turns.
-- Program must:
+- Program will:
   - Display the board after every move.
   - Check for valid moves.
   - Detect wins (rows, columns, diagonals).
