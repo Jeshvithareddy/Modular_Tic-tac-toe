@@ -26,12 +26,12 @@ Designed for beginners, preparation, and GitHub portfolio projects.
 
 Features :
 
- Modular code with clean functions.
- No global input of X/O — player turns handled automatically.
- Input validation.
- Beginner-friendly design.
- Very short and readable code.
- Perfect for labs, class assignments, and GitHub.
+- Modular code with clean functions.
+- No global input of X/O — player turns handled automatically.
+- Input validation.
+- Beginner-friendly design.
+- Very short and readable code.
+- Perfect for labs, class assignments, and GitHub.
 
 How to Run the Project :
 
