@@ -38,3 +38,24 @@ How to Run the Project :
 - Clone or download the project.
 
   
+    SCREENSHOTS:
+
+    - OUTPUT:
+ 
+      
+      <img width="242" height="124" alt="Screenshot 2025-11-26 144447" src="https://github.com/user-attachments/assets/ba4433b7-d0e7-44bb-ac88-6a475b650d7f" />
+    - WIN:
+
+
+      <img width="596" height="649" alt="image" src="https://github.com/user-attachments/assets/543b5af4-c5a2-4a5a-8668-2c83f0cc23d5" />
+    - INVALID MOVE:
+ 
+
+     <img width="243" height="136" alt="Screenshot 2025-11-26 144954" src="https://github.com/user-attachments/assets/32bfdfc6-b84d-4646-be36-595aee752f54" />
+
+    - DRAW:
+ 
+
+      <img width="264" height="214" alt="Screenshot 2025-11-26 145201" src="https://github.com/user-attachments/assets/4d2381fd-da40-4335-b122-91f80393cbfe" />
+
+  
